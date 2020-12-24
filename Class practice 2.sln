@@ -65,7 +65,7 @@ int Mage::Damage() {
 
 int main()
 {
-    Mage EvilGod("EvilGod");
+    Mage DesTroyer("DesTroyer");
     Mage RodolfoRP("RodolfoRP");
 
     EvilGod.CastSkill();

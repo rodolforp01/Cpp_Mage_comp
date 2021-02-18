@@ -1,3 +1,3 @@
 # Cpp_Mage_comp
 
-THE INDEXER-understanding classes
+THE INDEXER-understanding classes in c++
